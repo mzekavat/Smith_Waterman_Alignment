@@ -18,7 +18,9 @@ The full score matrix. (Sample output corresponding to the example input file is
 The full alignment. (Sample output corresponding to the example input file is `AlignmentScore_283.output_Alignment.tsv`)
 
 This page may be cloned using: 
-`sudo pip install git+git://github.com/mzekavat/Smith_Waterman_Alignment.git`
+
+```sudo pip install git+git://github.com/mzekavat/Smith_Waterman_Alignment.git```
+
 
 
 
