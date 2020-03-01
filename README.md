@@ -7,7 +7,9 @@ The script may be run as follows:
 `Rscript --vanilla hw1.R input.txt blosum62.txt`
 
 Necessary inputs include: 
+
 inputFile (example: input.txt): input sequence with 2 lines corresponding to 2 sequences to be aligned
+
 scoreFile (example: blosum62.txt): score file with a matrix of each letter and the baseline score associated with each combination of letters.
 
 Two additional optional inputs may be included for the opening gap and gap extension terms. Defaults for these are: openGap=-2, extGap=-1.
