@@ -20,8 +20,8 @@ Outputs will include:
 
 This page may be cloned using: 
 
-```library(devtools)
-install_github("mzekavat/Smith_Waterman_Alignment")```
+```library(devtools)```
+```install_github("mzekavat/Smith_Waterman_Alignment")```
 
 
 
