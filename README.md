@@ -20,7 +20,8 @@ Outputs will include:
 
 This page may be cloned using: 
 
-```sudo pip install git+git://github.com/mzekavat/Smith_Waterman_Alignment.git```
+```library(devtools)
+install_github("mzekavat/Smith_waterman_Alignment")```
 
 
 
