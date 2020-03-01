@@ -21,7 +21,7 @@ Outputs will include:
 This page may be cloned using: 
 
 ```library(devtools)
-install_github("mzekavat/Smith_waterman_Alignment")```
+install_github("mzekavat/Smith_Waterman_Alignment")```
 
 
 
